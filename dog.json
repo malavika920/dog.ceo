@@ -1,0 +1,57 @@
+[
+  {
+    "breedId": "B1o1",
+    "breedName": "Golden Retriever",
+    "description": "Friendly, intelligent and devoted. Great family dog.",
+    "size": "Large",
+    "lifespan": "10-12 years",
+    "origin": "Scotland",
+    "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B1o2",
+    "breedName": "German Shepard",
+    "description": "HErding dog, intelligent and devoted. Great working dog.",
+    "size": "Large",
+    "lifespan": "9-13 years",
+    "origin": "Germany",
+    "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B1o3",
+    "breedName": "Bulldog ",
+    "description": "Friendly, intelligentn and devoted. Great family dog.",
+    "size": "Large",
+    "lifespan": "8-10 years",
+    "origin": "United Kingdom",
+    "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B1o4",
+    "breedName": "Poodle",
+    "description": "Friendly, intelligentn and Active. Great family dog.",
+    "size": "Large",
+    "lifespan": "12-15 years",
+    "origin": "Germany, France",
+    "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B1o5",
+    "breedName": "Siberian Husky",
+    "description": "Friendly, intelligent and Outgoing. Working sled dog.",
+    "size": "Large",
+    "lifespan": "12-15 years",
+    "origin": "Siberia",
+    "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B1o6",
+    "breedName": "Chihahua",
+    "description": "Lively, aggressive and alert.",
+    "size": "Small",
+    "lifespan": "12-20 years",
+    "origin": "Mexico",
+    "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+  }
+
+]
