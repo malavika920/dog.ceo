@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Dog breeds</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+ 
+</head>
+    <body>
+        <section class="sub-header">
+            <nav>
+                <a href="index.html"></a>
+                <div class="nav-links" id="navLinks">
+                    <i class="fa fa-times" onclick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="#">ABOUT</a></li>
+                        <li><a href="signup-form.html">SIGN UP</a></li>
+                        <li><a href="jsonimpl.html">SEE DOGS</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" onclick="showMenu()"></i>
+            </nav>
+           <h1>About Us</h1>
+        </section>
+        <!--About us content-->
+        <section class="about-us">
+            <div class="row">
+                <div class="about-col">
+                    <h1>Get the best companion</h1>
+                    <p>Dogs being the lively and happy companion , you get to be more active 
+                         feel more secure , and more responsible
+                        <br>improve your livestyle with our little and joyful friends <br>
+                         that can remove all your stress and make you less isolated
+ 
+                    </p><br><br>
+                    <a href="jsonimpl.html" class="hero-btn red-btn">Explore now</a>
+                </div>
+                <div class="about-col">
+                    <img src="retriever.jpeg" >
+                </div>
+            </div>
+        </section>
+
+
+    <!--footer-->
+    <section class="footer">
+        
+        <p>made by Malavika Manoj</p>
+        <div class="icons">
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter" ></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-linkedin" ></i>
+        </div>
+       
+    </section>
+
+<!--Javascript for toggle-->
+        <script>
+
+            var navLinks = document.getElementById("navLinks")
+            function showMenu(){
+                navLinks.style.right = "0";
+            }
+            function hideMenu(){
+                navLinks.style.right = "-200px";
+            }
+        </script>
+
+    </body>
+</html>
