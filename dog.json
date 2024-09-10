@@ -24,7 +24,7 @@
     "size": "Large",
     "lifespan": "8-10 years",
     "origin": "United Kingdom",
-    "imageUrl": "https://raw.githubusecontent.com/malavika920/dog.ceo/main/bulldog.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/malavika920/dog.ceo/main/bulldog.jpeg"
   },
   {
     "breedId": "B1o4",
@@ -42,7 +42,7 @@
     "size": "Large",
     "lifespan": "12-15 years",
     "origin": "Siberia",
-    "imageUrl": "https://raw.githubuser.com/malavika920/dog.ceo/main/husky.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/malavika920/dog.ceo/main/husky.jpeg"
   },
   {
     "breedId": "B1o6",
@@ -51,7 +51,7 @@
     "size": "Small",
     "lifespan": "12-20 years",
     "origin": "Mexico",
-    "imageUrl": "https://raw.githubuserconent.com/malavika920/dog.ceo/main/chihahua.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/malavika920/dog.ceo/main/chihahua.jpeg"
   }
 
 ]
